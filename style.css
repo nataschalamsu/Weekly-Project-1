@@ -1,0 +1,92 @@
+body {
+  background-image: url(ppl2.jpg);
+  background-repeat: repeat;
+}
+
+header {
+  background-color: #00B4AC;
+  position: fixed;
+  display: block;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
+.header {
+  padding-left: 10;
+}
+
+#mainhead,
+#underhead {
+  font-family: Montserrat;
+}
+
+#mainhead {
+  font-size: 40px;
+}
+
+#underhead {
+  font-size: 24px;
+  color: #FFD831;
+}
+
+.main,
+.signup,
+.options,
+.congrats {
+  display: block;
+  padding: 10px 20px;
+  background-color: rgba(255, 124, 0, 0.75);
+  margin-top: 165;
+}
+
+.main {
+  margin-bottom: 90;
+}
+
+.options,
+.signup {
+  margin-bottom: 100;
+}
+
+a {
+  text-decoration: none;
+  color: #FF7C00;
+  transition: 0.5s;
+}
+
+a:hover {
+  color: #FFD831;
+  transition: 0.5s;
+}
+
+h1 {
+  font-size: 36px;
+  font-weight: 600;
+}
+
+h1,
+h2,
+h3,
+p,
+form,
+ul {
+  font-family: Quicksand;
+}
+
+p,
+ul {
+  font-size: 20px;
+}
+
+footer {
+  font-family: Anton;
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  padding: 25px;
+  width: 100%;
+  text-align: center;
+  display: block;
+  background-color: #00B4AC;
+}
