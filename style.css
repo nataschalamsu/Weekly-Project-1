@@ -45,8 +45,9 @@ header {
 }
 
 .options,
-.signup {
-  margin-bottom: 100;
+.signup,
+.interest {
+  margin-bottom: 85;
 }
 
 a {
