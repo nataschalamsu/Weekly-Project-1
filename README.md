@@ -1,6 +1,5 @@
 # Weekly-Project-1
 ## About This Site
-------------------
 GOTCHA! is my first simple web after a week in HACKTIV8. This site is a friendly site, kinda social media, finding friends base on same interest with the user. Like:
 * Animals
 * Foods
